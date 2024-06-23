@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidLeanring"
 include(":app")
 include(":customview")
+include(":lifeinputmethod")
+include(":lifeinputmethod2")
